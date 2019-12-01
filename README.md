@@ -26,8 +26,7 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | 11:40 - 12:00	| Break | - | - |
 | 12:00 - 13:00	| Demo | Marco Punta | [Resources for Protein families, protein domains and protein complexes](https://github.com/malvikasharan/2018-11-EMBORome/training_material/EMBO-Rome-Files-Marco/Rome-EMBO-School-2018-Marco-Punta-lecture-compressed.pdf) |
 | 13:00 - 14:00	| Lunch break | - | - |
-| 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation
-](training_material/marco_punta) |
+| 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation](training_material/marco_punta) |
 | 15:30 - 15:45	| Break | - | - |
 | 15:45 - 16:45 | Lecture | Natasha Wood | [Web resources describing results of PPI experiments; design of such databases, minimal information to describe PPIs](https://github.com/malvikasharan/2018-11-EMBORome/training_material/natashawood/NatashaWood_WebResources.pdf) |
 | 16:45 - 17:15	| Lecture & Practical | Lars Juhl Jensen | Protein association networks with STRING: [Lecture](training_material/string_database.pdf)  |
