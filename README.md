@@ -29,3 +29,17 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | 19:30 onwards	| Dinner | - | - |
 ---
 
+## Day 2
+
+### Session II: Visualization of PPI networks
+
+| Time | Activity | Lead | Title |
+| :---------- | :---------- | :---------- |:---------- |
+| 09:00 - 10:30 | Lecture & Practical | Nadezhda Doncheva | Gaining insights into networks: Introducing Cytoscape |
+| 10:30 - 11:00 | Tea break | - | - |
+| 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Analysis and visualization of PPI networks using Cytoscape and stringApp |
+| 13:00 - 14:00 | Lunch break | - | - |
+| 16:30 - 16:00 | Break | - | - |
+| 19:30 onwards | Dinner | - | - |
+
+
