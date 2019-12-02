@@ -20,12 +20,12 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | 09:45 - 10:00	| Introduction to the Course and Speakers | Shachi & Malvika | - |
 | 10:00 - 10:45 | Icebreaker & Tea break | - | - |
 | 10:45 - 11:45	| Overview lecture | Tamás Korcsmáros | Overview lecture: Computational analysis of protein-protein interactions in cell function and disease |
-| 11:45 - 13:00	| Lecture & Demo | Marco Punta | [Resources for Protein families, protein domains and protein complexes](https://github.com/malvikasharan/2018-11-EMBORome/training_material/EMBO-Rome-Files-Marco/Rome-EMBO-School-2018-Marco-Punta-lecture-compressed.pdf) |
+| 11:45 - 13:00	| Lecture & Demo | Marco Punta | [Resources for Protein families, protein domains and protein complexes](https://github.com/malvikasharan/2018-11-EMBORome/training-materials/EMBO-Rome-Files-Marco/Rome-EMBO-School-2018-Marco-Punta-lecture-compressed.pdf) |
 | 13:00 - 14:00	| Lunch break | - | - |
-| 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation](training-materials/marco_punta) |
-| 15:30 - 16:30 | Lecture | Natasha Wood | [Web resources describing results of PPI experiments; design of such databases, minimal information to describe PPIs](training_material/NatashaWood/2019_WebResources_for_describing_results_of_PPI_experiments.pdf) |
+| 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation](training-materialss/marco_punta) |
+| 15:30 - 16:30 | Lecture | Natasha Wood | [Web resources describing results of PPI experiments; design of such databases, minimal information to describe PPIs](training-materials/NatashaWood/2019_WebResources_for_describing_results_of_PPI_experiments.pdf) |
 | 16:30 - 17:00	| Break | - | - |
-| 17:00 - 18:30	| Practical | Lars Juhl Jensen | Protein association networks with STRING: [Lecture](training_material/string_database.pdf) & [Practical](https://jensenlab.org/training/string/)  |
+| 17:00 - 18:30	| Practical | Lars Juhl Jensen | Protein association networks with STRING: [Lecture](training-materials/string_database.pdf) & [Practical](https://jensenlab.org/training/string/)  |
 | 19:30 onwards	| Dinner | - | - |
 ---
 
