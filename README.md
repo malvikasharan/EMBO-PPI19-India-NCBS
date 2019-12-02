@@ -3,7 +3,7 @@
 #### 01 – 06 December 2019 | NCBS, Bengaluru, India
 
 - EMBO-hosted [webpage for the course](http://meetings.embo.org/event/19-protein-protein)
-- Twitter search results for [#EMBOPPI2019](https://twitter.com/search?q=%23EMBOPPI2019&src=typd&lang=en-gb)
+- Twitter search results for [#EMBOprotein19](https://twitter.com/search?q=%23EMBOprotein19&src=typd&lang=en-gb)
 
 Course materials will be added on each day...
 
@@ -35,7 +35,7 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 09:00 - 10:30 | Lecture & Practical | Nadezhda Doncheva | Gaining insights into networksusing Cytoscape: [Lecture](training-materials/NadezhdaDoncheva/20191203_Cytoscape_3.7_Tutorial.pdf) & [Practical](https://cytoscape.org/cytoscape-tutorials/protocols/basic-data-visualization/)|
+| 09:00 - 10:30 | Lecture & Practical | Nadezhda Doncheva | Gaining insights into networksusing Cytoscape: [Lecture](training-materials/NadezhdaDoncheva/20191203_Cytoscape_3.7_Tutorial.pdf), [Practical I](https://cytoscape.org/cytoscape-tutorials/protocols/tour-of-cytoscape/), [Practical II](https://cytoscape.org/cytoscape-tutorials/protocols/basic-data-visualization/)|
 | 10:30 - 11:00 | Tea break | - | - |
 | 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Retrieval, analysis and visualization of PPI networks using Cytoscape and stringApp: [Lecture]() & [Practical](https://jensenlab.org/training/stringapp/)|
 | 13:00 - 14:00 | Lunch break | - | - |
