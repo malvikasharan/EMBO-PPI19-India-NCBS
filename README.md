@@ -16,10 +16,10 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- | 
-| 09:00 - 09:45	| Public Seminar | Natasha Wood | The impact of protein dynamics on the spread of infectious viral diseases: Examples from the research in South Africa |
+| 09:00 - 09:45	| Public Seminar | Natasha Wood | [The impact of protein dynamics on the spread of infectious viral diseases: Examples from the research in South Africa](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/NatashaWood/2019_WebResources_for_describing_results_of_PPI_experiments.pdf) |
 | 09:45 - 10:00	| Introduction to the Course and Speakers | Shachi & Malvika | - |
 | 10:00 - 10:45 | Icebreaker & Tea break | - | - |
-| 10:45 - 11:45	| Overview lecture | Tamás Korcsmáros | Overview lecture: Computational analysis of protein-protein interactions in cell function and disease |
+| 10:45 - 11:45	| Overview lecture | Tamás Korcsmáros | [Overview lecture: Computational analysis of protein-protein interactions in cell function and disease](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/Opening-lecture_TKorcsmaros) |
 | 11:45 - 13:00	| Lecture | Marco Punta | [Resources for Protein families, protein domains and protein complexes](https://github.com/malvikasharan/2018-11-EMBORome/blob/master/training_material/EMBO-Rome-Files-Marco/Rome-EMBO-School-2018-Marco-Punta-lecture-compressed.pdf) |
 | 13:00 - 14:00	| Lunch break | - | - |
 | 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation](training-materials/marco_punta) |
