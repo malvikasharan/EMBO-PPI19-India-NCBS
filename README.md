@@ -35,9 +35,9 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 09:00 - 10:30 | Lecture & Practical | Nadezhda Doncheva | Gaining insights into networks: Introducing Cytoscape |
+| 09:00 - 10:30 | Lecture & Practical | Nadezhda Doncheva | Gaining insights into networksusing Cytoscape: [Lecture](training-materials/NadezhdaDoncheva/20191203_Cytoscape_3.7_Tutorial.pdf) & [Practical](https://cytoscape.org/cytoscape-tutorials/protocols/basic-data-visualization/)|
 | 10:30 - 11:00 | Tea break | - | - |
-| 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Analysis and visualization of PPI networks using Cytoscape and stringApp |
+| 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Retrieval, analysis and visualization of PPI networks using Cytoscape and stringApp: [Lecture]() & [Practical](https://jensenlab.org/training/stringapp/)|
 | 13:00 - 14:00 | Lunch break | - | - |
 | 16:30 - 16:00 | Break | - | - |
 | 19:30 onwards | Dinner | - | - |
