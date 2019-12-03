@@ -1,12 +1,12 @@
 ---
 title: "Short Linear Motifs and the Eukaryotic Linear motif resource"
-author: Toby Gibson, Manjeet Kumar & Holger Dinkel 
+author: Toby Gibson, Manjeet Kumar & Holger Dinkel
 geometry: margin=2cm
 ---
 
 
 
-### **[Resources]**
+# [Resources]
 
 
 ELM <http://elm.eu.org>
@@ -19,12 +19,12 @@ PeCan <https://pecan.stjude.cloud/proteinpaint/>
 
 ProViz <http://proviz.ucd.ie>
 
-**[ELM exercises]**
+# ELM exercises
 -------------------------------
 
 **Objective**: Get familiar with the [ELM](Eukaryotic Linear Motif) prediction tool.
 
-#### **1. Search in** **[ELM] by copy/pasting the following sequence and using the following parameters:**
+## 1. Search in [ELM] by copy/pasting the following sequence and using the following parameters:
 
 > **\> P12931**
 >
@@ -52,7 +52,7 @@ ProViz <http://proviz.ucd.ie>
 
     b.  Do you find any disordered regions?
 
-#### **2. Repeat the previous search (again accession P12931) using these parameters:**
+## 2. Repeat the previous search (again accession P12931) using these parameters:
 
 -   Cell Compartment: **cytosol**
 
@@ -71,19 +71,19 @@ ProViz <http://proviz.ucd.ie>
 4.  Compare the location of the annotated instances with structural
     information at hand (IUPRED, Secondary Structure).
 
-#### **3. Submit the** **[sequence] of Paxillin (P49023) to ELM, using default parameters.**
+## 3. Submit the sequence of Paxillin (P49023) to ELM, using default parameters.
 
 1.  Compare the results with a search for the same sequence when using
     the [cellular compartment] 'plasma membrane'
 
-#### **4. Search protein SRC\_MOUSE (P05480) for ELMs.**
+## 4. Search protein SRC\_MOUSE (P05480) for ELMs.
 
 1.  Do you find "annotated instances"?
 
 2.  If not, what's the closest to an 'annotated instance' that you can
     find? Investigate where this information might come from.
 
-#### **5. Submit the entry name \'P53\_HUMAN\' **
+## 5. Submit the entry name \'P53\_HUMAN\'
 
 1.  Do the cell compartments make sense?
 
@@ -91,18 +91,18 @@ ProViz <http://proviz.ucd.ie>
 
 3.  Is there a CDK site in p53? Is there a Cyclin Box in p53?
 
-#### **6. (Optional) Search ELM using the protein name \'MDM4\_HUMAN\' and look for the \'USP binding motif\' DOC\_USP7\_MATH\_1.**
+## 6. (Optional) Search ELM using the protein name \'MDM4\_HUMAN\' and look for the \'USP binding motif\' DOC\_USP7\_MATH\_1.
 
 1.  How many such motif instances are found in this protein sequence?
 
-#### **7. (Optional) Repeat this exercise with protein \'AMPH\_HUMAN\' and ELM class \'LIG\_Clathr\_ClatBox\_1\'**
+## 7. (Optional) Repeat this exercise with protein \'AMPH\_HUMAN\' and ELM class \'LIG\_Clathr\_ClatBox\_1\'
 
 1.  Try to assess the biological relevance of each of these instances.
 
 2.  Is the annotation for the biological relevance in accordance with
     the globular structure?
 
-**[PeCan exercise]**
+# PeCan exercise
 --------------------------------
 
 -   Go to elm.eu.org and enter ETV1\_HUMAN as search term; you should
@@ -130,14 +130,12 @@ as well; analyse the area around the degron; additionally, by adding
     [29279382](https://www.ncbi.nlm.nih.gov/pubmed/29279382); open CCND2
     in PeCan and look at the differences in pediatric & Cosmic data
 
-(graphics from: \"
-
-[Structural basis of the phosphorylation-independentrecognition of
+(graphics from: \" [Structural basis of the phosphorylation-independentrecognition of
 cyclin D1 by the SCF^FBXO31^ ubiquitin
 ligase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5777030/pdf/pnas.201708677.pdf)\"
 *Li* PNAS 2018)
 
-**[ProViz exercise]**
+# ProViz exercise
 ---------------------------------
 
 *ProViz aggregates and displays useful information from many resources
