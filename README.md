@@ -39,7 +39,7 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | 10:30 - 11:00 | Break | - | - |
 | 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Retrieval, analysis and visualization of PPI networks using Cytoscape and stringApp: [Sources of networks lecture](training-materials/LarsJuhlJensen/Network_source_slides.pdf)<br> stringApp: [Lecture](training-materials/NadezhdaDoncheva/20191203_Tutorial_stringApp.pdf) & [Practical](https://jensenlab.org/training/stringapp/)|
 | 13:00 - 14:00 | Lunch break | - | - |
-| 14:00 - 15:30 | Practical | Toby Gibson | Revealing interactive features in protein multiple sequence alignments with Jalview [Practical](training-materials/TobyGibson/)|
+| 14:00 - 15:30 | Practical | Toby Gibson | Revealing interactive features in protein multiple sequence alignments with Jalview: [Practical](training-materials/TobyGibson/), [Exercises](training-materials/TobyGibson/MSA_JalView_Exercise_Bangalore19.pdf)|
 | 15:30 - 16:00 | Break | - | - |
 | 16:00 - 17:15 | Lecture | Toby Gibson | Modular Protein Architecture and the Construction of Cell Regulatory Systems |
 | 17:15 - 18:00 | Lecture | R. Sowdhamini | Computational measures of strength of protein-protein interfaces and its relevance to disease biology |
