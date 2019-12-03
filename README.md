@@ -44,7 +44,7 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | 16:00 - 17:15 | Lecture | Toby Gibson | Modular Protein Architecture and the Construction of Cell Regulatory Systems |
 | 17:15 - 18:00 | Lecture | R. Sowdhamini | Computational measures of strength of protein-protein interfaces and its relevance to disease biology |
 | 18:00 - 18:10 | Break | - | - |
-| 18:10 - 19:00 | Group activity | Malvika Sharan & Holger Dinkel | Unseminar: Using informal meetings for building local (bioinformatics) communities: [HTML](training-materials/HolgerDinkel/unseminar/unseminars.md) - [Slides](training-materials/HolgerDinkel/unseminar/unseminars.pdf) |
+| 18:10 - 19:00 | Group activity | Malvika Sharan & Holger Dinkel | Unseminar: Using informal meetings for building local (bioinformatics) communities: [Slides](training-materials/HolgerDinkel/unseminar/unseminars.pdf) |
 | 19:30 onwards | Dinner | - | - |
 
 
