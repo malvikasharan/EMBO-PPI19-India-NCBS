@@ -39,7 +39,9 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | 10:30 - 11:00 | Tea break | - | - |
 | 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Retrieval, analysis and visualization of PPI networks using Cytoscape and stringApp: [Lecture]() & [Practical](https://jensenlab.org/training/stringapp/)|
 | 13:00 - 14:00 | Lunch break | - | - |
-| 16:30 - 16:00 | Break | - | - |
+| 14:00 - 15:30 | Practical | Toby Gibson | Revealing interactive features in protein multiple sequence alignments with Jalview |
+| 15:30 - 16:00 | Break | - | - |
+| 16:00 - 17:15 | Lecture | Toby Gibson | Modular Protein Architecture and the Construction of Cell Regulatory Systems |
 | 19:30 onwards | Dinner | - | - |
 
 
