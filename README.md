@@ -9,6 +9,10 @@ Course materials will be added on each day...
 
 Meanwhile check the materials from the last year on [this page](https://github.com/malvikasharan/2018-11-EMBORome)
 
+## Collaborative document
+
+https://yourpart.eu/p/emboppi19
+
 --------------------------------
 ## Day 1
 
