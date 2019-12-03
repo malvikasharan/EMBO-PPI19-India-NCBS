@@ -16,7 +16,7 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- | 
-| 09:00 - 09:45	| Public Seminar | Natasha Wood | [The impact of protein dynamics on the spread of infectious viral diseases: Examples from the research in South Africa](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/NatashaWood/2019_WebResources_for_describing_results_of_PPI_experiments.pdf) |
+| 09:00 - 09:45	| Public Seminar | Natasha Wood | [The impact of protein dynamics on the spread of infectious viral diseases: Examples from the research in South Africa](training-materials/NatashaWood/2019.12.02_EMBO_NWood_talk_summary_.pdf) |
 | 09:45 - 10:00	| Introduction to the Course and Speakers | Shachi & Malvika | - |
 | 10:00 - 10:45 | Icebreaker & Tea break | - | - |
 | 10:45 - 11:45	| Overview lecture | Tamás Korcsmáros | [Overview lecture: Computational analysis of protein-protein interactions in cell function and disease](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/EMBO-PPI_India-2019_TKorcsmaros_Overview-lecture_compressed.pdf) |
