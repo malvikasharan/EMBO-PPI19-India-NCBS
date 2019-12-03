@@ -126,15 +126,14 @@ where relevant to linear motif discovery.
 ## Go to the **ProViz server** [http://proviz.ucd.ie](http://proviz.ucd.ie) and put p53 into the "Search for a Protein" field
 
 1. Explore the results, then check out these operations and questions:
-
-    a. Are there any methyllysine modifications?
-    a. What is a cumulative switch?
-    a. Are there any motifs in p53 than can antagonise MDM2 ubiquitination?
-    a. Are there any splice variants in the DNA-binding domain? Do any motifs get removed in splice variants? Do you think p53 researchers study all the splice variants?
-    a. What do the long structure modules correspond to?
-    a. Can tetrameric p53 be exported from the nucleus?
-    a. Click on the structure element of a short segment of p53. It goes to the PDB website (RCSB). Display the structure in the browser and adjust the viewing controls.
-    a. What is the difference between mutagenesis sites and sequence variants?
-    a. Which residue has the most sequence variants listed?
-    a. Are there any sequence variants in the MDM2 degron (towards the N-terminus)?
+   1. Are there any methyllysine modifications?
+   1. What is a cumulative switch?
+   1. Are there any motifs in p53 than can antagonise MDM2 ubiquitination?
+   1. Are there any splice variants in the DNA-binding domain? Do any motifs get removed in splice variants? Do you think p53 researchers study all the splice variants?
+   1. What do the long structure modules correspond to?
+   1. Can tetrameric p53 be exported from the nucleus?
+   1. Click on the structure element of a short segment of p53. It goes to the PDB website (RCSB). Display the structure in the browser and adjust the viewing controls.  
+   1. What is the difference between mutagenesis sites and sequence variants?
+   1. Which residue has the most sequence variants listed?
+   1. Are there any sequence variants in the MDM2 degron (towards the N-terminus)?
 
