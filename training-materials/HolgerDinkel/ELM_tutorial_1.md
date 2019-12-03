@@ -8,9 +8,10 @@ geometry: margin=2cm
 
 ### **[Resources]**
 
-UniProt <http://www.uniprot.org/>
 
 ELM <http://elm.eu.org>
+
+UniProt <http://www.uniprot.org/>
 
 SlimSearch <http://slim.ucd.ie/slimsearch/>
 
@@ -21,9 +22,9 @@ ProViz <http://proviz.ucd.ie>
 **[ELM exercises]**
 -------------------------------
 
-**Objective**: Get familiar with the [ELM]{.underline} (Eukaryotic Linear Motif) prediction tool.
+**Objective**: Get familiar with the [ELM](Eukaryotic Linear Motif) prediction tool.
 
-#### **1. Search in** **[ELM]{.underline} by copy/pasting the following sequence and using the following parameters:**
+#### **1. Search in** **[ELM] by copy/pasting the following sequence and using the following parameters:**
 
 > **\> P12931**
 >
@@ -70,10 +71,10 @@ ProViz <http://proviz.ucd.ie>
 4.  Compare the location of the annotated instances with structural
     information at hand (IUPRED, Secondary Structure).
 
-#### **3. Submit the** **[sequence]{.underline} of Paxillin (P49023) to ELM, using default parameters.**
+#### **3. Submit the** **[sequence] of Paxillin (P49023) to ELM, using default parameters.**
 
 1.  Compare the results with a search for the same sequence when using
-    the [cellular compartment]{.underline} 'plasma membrane'
+    the [cellular compartment] 'plasma membrane'
 
 #### **4. Search protein SRC\_MOUSE (P05480) for ELMs.**
 
@@ -143,7 +144,7 @@ ligase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5777030/pdf/pnas.201708677.
 where relevant to linear motif discovery. *
 
 Go to the **ProViz server**
-[[http://proviz.ucd.ie]{.underline}](http://proviz.ucd.ie)
+[[http://proviz.ucd.ie]](http://proviz.ucd.ie)
 
 Put p53 into the **Search for a Protein** field
 
