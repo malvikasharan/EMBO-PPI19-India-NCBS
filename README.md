@@ -36,12 +36,15 @@ Meanwhile check the materials from the last year on [this page](https://github.c
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
 | 09:00 - 10:30 | Lecture & Practical | Nadezhda Doncheva | Gaining insights into networks using Cytoscape: [Lecture part I](training-materials/NadezhdaDoncheva/20191203_Cytoscape_3.7_Tutorial_partI.pdf) & [Tour of Cytoscape](https://cytoscape.org/cytoscape-tutorials/protocols/tour-of-cytoscape/)<br> Working with Cytoscape: [Lecture part II](training-materials/NadezhdaDoncheva/20191203_Cytoscape_3.7_Tutorial_partII.pdf) & [Practical](https://cytoscape.org/cytoscape-tutorials/protocols/basic-data-visualization/)|
-| 10:30 - 11:00 | Tea break | - | - |
+| 10:30 - 11:00 | Break | - | - |
 | 11:00 - 13:00 | Lecture & Practical | Nadezhda Doncheva & Lars Juhl Jensen | Retrieval, analysis and visualization of PPI networks using Cytoscape and stringApp: [Lecture]() & [Practical](https://jensenlab.org/training/stringapp/)|
 | 13:00 - 14:00 | Lunch break | - | - |
 | 14:00 - 15:30 | Practical | Toby Gibson | Revealing interactive features in protein multiple sequence alignments with Jalview [Practical](training-materials/TobyGibson/)|
 | 15:30 - 16:00 | Break | - | - |
 | 16:00 - 17:15 | Lecture | Toby Gibson | Modular Protein Architecture and the Construction of Cell Regulatory Systems |
+| 17:15 - 18:00 | Lecture | R. Sowdhamini | Computational measures of strength of protein-protein interfaces and its relevance to disease biology |
+| 18:00 - 18:10 | Break | - | - |
+| 18:10 - 19:00 | Group activity | Malvika Sharan & Holger Dinkel | Unseminar: Using informal meetings for building local (bioinformatics) communities |
 | 19:30 onwards | Dinner | - | - |
 
 
