@@ -61,7 +61,7 @@ https://yourpart.eu/p/emboppi19
 | :---------- | :---------- | :---------- |:---------- |
 | 09:00 - 10:30 | Lecture & Practical | Zsuzsanna Dosztányi | Lecture & Practical - Biology and prediction of intrinsically unstructured peptide regions [Lecture](training-materials/ZsuzsannaDosztanyi/IDP_Talk.pdf) & [Practical](training-materials/ZsuzsannaDosztanyi/IDP_tut.pdf)|
 | 10:30 - 11:00 | Break | - | - |
-| 11:00 - 13:00 | Lecture & Practical | Holger Dinkel & Manjeet Kumar| Introduction of Linear motifs [Lecture](training-materials/HolgerDinkel/Short_Linear_Motifs.pdf) [Practiacl](training-materials/HolgerDinkel/ELM_tutorial_1.md) |
+| 11:00 - 13:00 | Lecture & Practical | Holger Dinkel & Manjeet Kumar| Introduction of Linear motifs [Lecture 1](training-materials/HolgerDinkel/Short_Linear_Motifs.pdf), [Lecture 2](training-materials/HolgerDinkel/Short_Linear_Motif_Resources.pdf) & [Practical](training-materials/HolgerDinkel/ELM_tutorial_1.md) |
 | 13:00 - 13:40 | Lunch break | - | - |
 | 13:45 - 14:45 |  |  | Poster Session|
 | 14:45 - 19:30 | Free | - | - |

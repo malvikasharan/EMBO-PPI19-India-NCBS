@@ -99,7 +99,8 @@ geometry: margin=2cm
 # PeCan exercise
 
 ## Go to [ELM](http://elm.eu.org/searchdb.html) and enter ETV1\_HUMAN as search term in the search box on top right; you should find a single annotated true positive instance of a degron. 
-	1. Where/What ELM class is it? Note down it\'s amino acid position.
+
+1. Where/What ELM class is it? Note down it's amino acid position.
 
 Next go to [PeCan](https://pecan.stjude.cloud/proteinpaint/) and enter ETV1 as search term. 
 
