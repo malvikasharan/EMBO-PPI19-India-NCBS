@@ -24,9 +24,9 @@ https://yourpart.eu/p/emboppi19
 | 09:45 - 10:00	| Introduction to the Course and Speakers | Shachi & Malvika | - |
 | 10:00 - 10:45 | Icebreaker & Tea break | - | - |
 | 10:45 - 11:45	| Overview lecture | Tamás Korcsmáros | [Overview lecture: Computational analysis of protein-protein interactions in cell function and disease](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/EMBO-PPI_India-2019_TKorcsmaros_Overview-lecture_compressed.pdf) |
-| 11:45 - 13:00	| Lecture | Marco Punta | [Resources for Protein families, protein domains and protein complexes](https://github.com/malvikasharan/2018-11-EMBORome/blob/master/training_material/EMBO-Rome-Files-Marco/Rome-EMBO-School-2018-Marco-Punta-lecture-compressed.pdf) |
+| 11:45 - 13:00	| Lecture | Marco Punta | [Resources for Protein families, protein domains and protein complexes](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/marco_punta/Bengaluru-EMBO-School-2019-Marco-Punta-lecture-compressed.pdf) |
 | 13:00 - 14:00	| Lunch break | - | - |
-| 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation](training-materials/marco_punta) |
+| 14:00 - 15:30	| Practical | Marco Punta | [Practical - Profile-based sequence searches for protein structure and function annotation](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/marco_punta/Bengaluru-EMBO-School-2019-Marco-Punta-practical-compressed.pdf) |
 | 15:30 - 16:30 | Lecture | Natasha Wood | [Web resources describing results of PPI experiments; design of such databases, minimal information to describe PPIs](training-materials/NatashaWood/2019_WebResources_for_describing_results_of_PPI_experiments.pdf) |
 | 16:30 - 17:00	| Break | - | - |
 | 17:00 - 18:30	| Lecture & Practical | Lars Juhl Jensen | Protein association networks with STRING: [Lecture](training-materials/LarsJuhlJensen/STRING_slides.pdf) & [Practical](https://jensenlab.org/training/string/)  ([stringApp teaser](training-materials/LarsJuhlJensen/20191202_stringAppDemo_v11.pdf)) |
