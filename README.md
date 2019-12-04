@@ -31,7 +31,6 @@ https://yourpart.eu/p/emboppi19
 | 16:30 - 17:00	| Break | - | - |
 | 17:00 - 18:30	| Lecture & Practical | Lars Juhl Jensen | Protein association networks with STRING: [Lecture](training-materials/LarsJuhlJensen/STRING_slides.pdf) & [Practical](https://jensenlab.org/training/string/)  ([stringApp teaser](training-materials/LarsJuhlJensen/20191202_stringAppDemo_v11.pdf)) |
 | 19:30 onwards	| Dinner | - | - |
----
 
 ## Day 2
 
@@ -66,5 +65,33 @@ https://yourpart.eu/p/emboppi19
 | 13:45 - 14:45 |  |  | Poster Session|
 | 14:45 - 19:30 | Free | - | - |
 | 19:30 onwards | Course Dinner | - | - |
----
+
+## Day 4
+
+### Session V: Protein structures and interaction interfaces
+
+| Time | Activity | Lead | Title |
+| :---------- | :---------- | :---------- |:---------- |
+| 09:00 - 10:30 | Lecture & Practical | Zsuzsanna Dosztányi | Lecture & Practical - Biology and prediction of intrinsically unstructured peptide regions [Lecture](training-materials/ZsuzsannaDosztanyi/IDP_Talk.pdf) & [Practical](training-materials/ZsuzsannaDosztanyi/IDP_tut.pdf)|
+| 10:30 - 11:00 | Break | - | - |
+| 11:00 - 13:00 | Lecture & Practical | Holger Dinkel & Manjeet Kumar| Introduction of Linear motifs [Lecture 1](training-materials/HolgerDinkel/Short_Linear_Motifs.pdf), [Lecture 2](training-materials/HolgerDinkel/Short_Linear_Motif_Resources.pdf) & [Practical](training-materials/HolgerDinkel/ELM_tutorial_1.md) |
+| 13:00 - 13:40 | Lunch break | - | - |
+| 13:45 - 14:45 |  |  | Poster Session|
+| 14:45 - 19:30 | Free | - | - |
+| 19:30 onwards | Course Dinner | - | - |
+
+| Time | Activity | Lead | Title |
+| :---------- | :---------- | :---------- |:---------- |
+| 09:00 - 09:30| 	Lecture | 	Scooter Morris | Protein structure databases and Chimera tool to explore structure |
+| 09:30 - 10:30| 	Practical & Demo | 	Scooter Morris | Visualizing protein structures and interaction interfaces with UCSF ChimeraX |
+| 10:30 - 11:00| 			Break |
+| 11:00 - 12:00| 	Practical | 	Scooter Morris | Visualizing very large protein complexes with UCSF ChimeraX |
+| 12:00 - 13:00| 	Lecture | 	Tamás Korcsmáros | PPIs in host-microbe interactions: how microbiome affect us and how pathogens tell us what to do |
+| 13:00 - 14:00| 			Lunch break |
+| 14:00 - 15:00| 	Practical | 	Holger Dinkel, Toby Gibson, Manjeet Kumar | Linear motif biology and prediction, cooperativity in cellular signaling (II) [Lecture](training-materials/training-materials/ManjeetKumar/Short_Linear_Motifs_in_Pathogens.pdf)|
+| 15:00 - 16:30| 	Lecture & Practical | 	Miguel Andrade | Structure and interactions of repeated and low complexity IDRs in proteins |
+| 16:30 - 17:30| 			Longer break before the public seminars |
+| 17:30 - 18:15| 	Public lecture | 	Norman Davey | In silico discovery of IDRs in host-pathogen interactions: revealing Ebola's weak spot |
+| 18:15 - 19:00| 	Public lecture | 	Haribabu Arthanari | Inhibiting fungal multidrug resistance by disrupting protein-protein Interaction |
+| 19:30 onwards| 			Dinner |
 
