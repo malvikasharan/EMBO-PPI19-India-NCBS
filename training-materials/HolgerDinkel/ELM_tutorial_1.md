@@ -95,6 +95,32 @@ geometry: margin=2cm
 1. If there are multiple instances of that motif found per protein, can you use differential information (comparing the motifs found in the different isoforms) to narrow down the number of candidate instances?
 1. Next, you sequence another isoform (Q05586-4) which also features this motif at a homologous position, but strangely does not get expressed at the cell surface. You discuss this with your colleague and he tells you that he recently found out that this protein also binds to the PDZ domain of DLG4. Can you come up with a hypothesis how this all fits together?
 
+## (Optional) Search ELM for the following proteins and familiarize yourself with the different modular organizations of the following proteins. 
+You should focus on the different types of protein architectures, the different amount of information which is available from different resources as well as where functional motifs are located / in which part of the protein would you expect them? Feel free to click on the link to resources such as 'Uniprot' or 'SMART', to get more information about the selected protein.
+
+- EGFR_HUMAN
+- CASP9_HUMAN
+- EPN1_HUMAN
+- SMAD3_HUMAN
+- SOS1_HUMAN
+- PTN3_HUMAN
+- SRRM2_HUMAN
+- KMT2D_HUMAN
+- KI67_HUMAN
+- AP180_HUMAN
+- Q94833_TRIVA
+- AMPH_HUMAN
+- MAPK2_HUMAN
+- CTNB1_HUMAN
+- JUN_HUMAN
+
+## (Optional) Search elm.eu.org using the protein name 'MDM4_HUMAN' and look for the 'USP binding motif' DOC_USP7_1.
+- How many such motif instances are found in this protein sequence?
+- Try to assess the biological relevance of each of these instances.
+- (Optional) Repeat this exercise with protein 'AMPH_HUMAN' and ELM class 'LIG_Clathr_ClatBox_1'
+- (Optional) Is the annotation for the biological relevance in accordance with the globular structure?
+
+
 
 # PeCan exercise
 
