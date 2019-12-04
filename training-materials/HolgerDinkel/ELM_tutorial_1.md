@@ -77,6 +77,14 @@ geometry: margin=2cm
 1.  How many degrons are there in p53?
 1.  Is there a CDK site in p53? Is there a Cyclin Box in p53?
 
+## You're studying the cell surface expression of a receptor and find out that some isoforms are expressed at the surface (Q05586-2) while another isoform is retained in the endoplasmatic reticulum (Q05586-5). You want to investigate a possible role of linear motifs in this phenomenon.
+
+1. First, align these sequences to see which parts are similar/identical and which are different (go to http://www.uniprot.org/uniprot/Q05586, scroll down to 'sequences', select isoforms 2 and 5 and click 'align').
+1. Then use http://elm.eu.org to scan these sequences for linear motifs, using cell compartment filter 'cytosol'. You're looking for targeting motifs (TRG\_\*).
+1. By looking through the annotations of these targeting ELM classes, can you find motif instances that might be responsible for the different behaviour of the isoforms?
+1. If there are multiple instances of that motif found per protein, can you use differential information (comparing the motifs found in the different isoforms) to narrow down the number of candidate instances?
+1. Next, you sequence another isoform (Q05586-4) which also features this motif at a homologous position, but strangely does not get expressed at the cell surface. You discuss this with your colleague and he tells you that he recently found out that this protein also binds to the PDZ domain of DLG4. Can you come up with a hypothesis how this all fits together?
+
 ## (Optional) Search ELM using the protein name \'MDM4\_HUMAN\' and look for the \'USP binding motif\' DOC\_USP7\_MATH\_1.
 
 1.  How many such motif instances are found in this protein sequence?
@@ -86,15 +94,7 @@ geometry: margin=2cm
 1.  Try to assess the biological relevance of each of these instances.
 1.  Is the annotation for the biological relevance in accordance with
     the globular structure?
-
-## You're studying the cell surface expression of a receptor and find out that some isoforms are expressed at the surface (Q05586-2) while another isoform is retained in the endoplasmatic reticulum (Q05586-5). You want to investigate a possible role of linear motifs in this phenomenon.
-
-1. First, align these sequences to see which parts are similar/identical and which are different (go to http://www.uniprot.org/uniprot/Q05586, scroll down to 'sequences', select isoforms 2 and 5 and click 'align').
-1. Then use http://elm.eu.org to scan these sequences for linear motifs, using cell compartment filter 'cytosol'. You're looking for targeting motifs (TRG\_\*).
-1. By looking through the annotations of these targeting ELM classes, can you find motif instances that might be responsible for the different behaviour of the isoforms?
-1. If there are multiple instances of that motif found per protein, can you use differential information (comparing the motifs found in the different isoforms) to narrow down the number of candidate instances?
-1. Next, you sequence another isoform (Q05586-4) which also features this motif at a homologous position, but strangely does not get expressed at the cell surface. You discuss this with your colleague and he tells you that he recently found out that this protein also binds to the PDZ domain of DLG4. Can you come up with a hypothesis how this all fits together?
-
+    
 ## (Optional) Search ELM for the following proteins and familiarize yourself with the different modular organizations of the following proteins. 
 You should focus on the different types of protein architectures, the different amount of information which is available from different resources as well as where functional motifs are located / in which part of the protein would you expect them? Feel free to click on the link to resources such as 'Uniprot' or 'SMART', to get more information about the selected protein.
 
