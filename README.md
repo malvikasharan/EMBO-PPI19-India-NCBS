@@ -72,10 +72,10 @@ https://yourpart.eu/p/emboppi19
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 09:00 - 09:30| 	Lecture | 	Scooter Morris | Protein structure databases and Chimera tool to explore structure |
-| 09:30 - 10:30| 	Practical & Demo | 	Scooter Morris | Visualizing protein structures and interaction interfaces with UCSF ChimeraX |
+| 09:00 - 09:30| 	Lecture | 	Scooter Morris | Protein structure databases and Chimera tool to explore structure [Material](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
+| 09:30 - 10:30| 	Practical & Demo | 	Scooter Morris | Visualizing protein structures and interaction interfaces with UCSF ChimeraX [Material](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
 | 10:30 - 11:00| 			Break |
-| 11:00 - 12:00| 	Practical | 	Scooter Morris | Visualizing very large protein complexes with UCSF ChimeraX |
+| 11:00 - 12:00| 	Practical | 	Scooter Morris | Visualizing very large protein complexes with UCSF ChimeraX [Material](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
 | 12:00 - 13:00| 	Lecture | 	Tamás Korcsmáros | PPIs in host-microbe interactions: how microbiome affect us and how pathogens tell us what to do |
 | 13:00 - 14:00| 			Lunch break |
 | 14:00 - 15:00| 	Practical | 	Holger Dinkel, Toby Gibson, Manjeet Kumar | Linear motif biology and prediction, cooperativity in cellular signaling (II) [Lecture](training-materials/training-materials/ManjeetKumar/Short_Linear_Motifs_in_Pathogens.pdf)|
