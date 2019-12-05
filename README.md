@@ -83,7 +83,7 @@ https://yourpart.eu/p/emboppi19
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 14:00 - 15:00| 	Practical | Manjeet Kumar, Holger Dinkel, Toby Gibson | [Linear motif biology and prediction, cooperativity in cellular signaling](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/ManjeetKumar/Short_Linear_Motifs_in_Pathogens.pdf) (input files: [tir.fasta](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/ManjeetKumar/tir.fasta), [caga.fasta](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/ManjeetKumar/caga.fasta)|
+| 14:00 - 15:00| 	Lecture & Practical | Manjeet Kumar, Holger Dinkel, Toby Gibson | [Linear motif biology and prediction, cooperativity in cellular signaling](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/ManjeetKumar/Short_Linear_Motifs_in_Pathogens.pdf) (input files: [tir.fasta](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/ManjeetKumar/tir.fasta), [caga.fasta](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/ManjeetKumar/caga.fasta)|
 | 15:00 - 16:30| 	Lecture & Practical | 	Miguel Andrade | Structure and interactions of repeated and low complexity IDRs in proteins [MR1_fasta.txt](https://raw.githubusercontent.com/malvikasharan/EMBO-PPI19-India-NCBS/master/training-materials/MiguelAndrade/MR1_fasta.txt)|
 | 16:30 - 17:30| 			Longer break before the public seminars |
 | 17:30 - 18:15| 	Public lecture | 	Norman Davey | In silico discovery of IDRs in host-pathogen interactions: revealing Ebola's weak spot |
