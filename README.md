@@ -79,7 +79,7 @@ https://yourpart.eu/p/emboppi19
 | 12:00 - 13:00| 	Lecture | 	Tamás Korcsmáros | PPIs in host-microbe interactions: how microbiome affect us and how pathogens tell us what to do |
 | 13:00 - 14:00| 			Lunch break |
 
-### Session IV: Intrinsically Disordered Regions (IDRs) - I
+### Session IV: Intrinsically Disordered Regions (IDRs) - II
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
