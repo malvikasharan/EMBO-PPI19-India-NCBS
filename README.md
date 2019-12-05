@@ -44,7 +44,7 @@ https://yourpart.eu/p/emboppi19
 | 13:00 - 14:00 | Lunch break | - | - |
 | 14:00 - 15:30 | Practical | Toby Gibson | Revealing interactive features in protein multiple sequence alignments with Jalview: [Practical](training-materials/TobyGibson/), [Exercises](training-materials/TobyGibson/MSA_JalView_Exercise_Bangalore19.pdf)|
 | 15:30 - 16:00 | Break | - | - |
-| 16:00 - 17:15 | Lecture | Toby Gibson | Modular Protein Architecture and the Construction of Cell Regulatory Systems |
+| 16:00 - 17:15 | Lecture | Toby Gibson | Modular Protein Architecture and the Construction of Cell Regulatory Systems [Lecture](training-materials/TobyGibson/Gibson_EMBO-PPI_Bangalore_ModPA_19.pdf)|
 | 17:15 - 18:00 | Lecture | R. Sowdhamini | Computational measures of strength of protein-protein interfaces and its relevance to disease biology |
 | 18:00 - 18:10 | Break | - | - |
 | 18:10 - 19:00 | Group activity | Malvika Sharan & Holger Dinkel | Unseminar: Using informal meetings for building local (bioinformatics) communities: [Slides](training-materials/HolgerDinkel/unseminar/unseminars.pdf) |
