@@ -72,18 +72,18 @@ https://yourpart.eu/p/emboppi19
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 09:00 - 09:30| 	Lecture | 	Scooter Morris | Protein structure databases and Chimera tool to explore structure [Material](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
-| 09:30 - 10:30| 	Practical & Demo | 	Scooter Morris | Visualizing protein structures and interaction interfaces with UCSF ChimeraX [Material](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
+| 09:00 - 09:30| 	Lecture | 	Scooter Morris | [Protein structure databases and Chimera tool to explore structure](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
+| 09:30 - 10:30| 	Practical & Demo | 	Scooter Morris | [Visualizing protein structures and interaction interfaces with UCSF ChimeraX](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
 | 10:30 - 11:00| 			Break |
-| 11:00 - 12:00| 	Practical | 	Scooter Morris | Visualizing very large protein complexes with UCSF ChimeraX [Material](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
+| 11:00 - 12:00| 	Practical | 	Scooter Morris | [Visualizing very large protein complexes with UCSF ChimeraX](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
 | 12:00 - 13:00| 	Lecture | 	Tamás Korcsmáros | PPIs in host-microbe interactions: how microbiome affect us and how pathogens tell us what to do |
 | 13:00 - 14:00| 			Lunch break |
 
-### Session IV: Intrinsically Disordered Regions (IDRs) - II
+### Session VI: Intrinsically Disordered Regions (IDRs) - II
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 14:00 - 15:00| 	Practical | 	Holger Dinkel, Toby Gibson, Manjeet Kumar | Linear motif biology and prediction, cooperativity in cellular signaling (II) [Lecture](training-materials/training-materials/ManjeetKumar/Short_Linear_Motifs_in_Pathogens.pdf), [tir.fasta](training-materials/training-materials/ManjeetKumar/tir.fasta), [caga.fasta](training-materials/training-materials/ManjeetKumar/caga.fasta)|
+| 14:00 - 15:00| 	Practical | 	Holger Dinkel, Toby Gibson, Manjeet Kumar | [Linear motif biology and prediction, cooperativity in cellular signaling (II)](training-materials/training-materials/ManjeetKumar/Short_Linear_Motifs_in_Pathogens.pdf)(input files: [tir.fasta](training-materials/training-materials/ManjeetKumar/tir.fasta), [caga.fasta](training-materials/training-materials/ManjeetKumar/caga.fasta))|
 | 15:00 - 16:30| 	Lecture & Practical | 	Miguel Andrade | Structure and interactions of repeated and low complexity IDRs in proteins |
 | 16:30 - 17:30| 			Longer break before the public seminars |
 | 17:30 - 18:15| 	Public lecture | 	Norman Davey | In silico discovery of IDRs in host-pathogen interactions: revealing Ebola's weak spot |
