@@ -94,18 +94,16 @@ https://yourpart.eu/p/emboppi19
 
 | Time | Activity | Lead | Title |
 | :---------- | :---------- | :---------- |:---------- |
-| 09:15 - 10:00| 	Lecture | 	Shachi Gosavi | Simple models for protein folding and conformational transitions.|
+| 09:15 - 10:00| 	Lecture | 	Shachi Gosavi | Simple models for protein folding and conformational transition.|
 | 10:00 - 10:30| 	Lecture | 	Scooter Morris (on behalf of Allegra Via) | 
 Lecture - Tools for structure of PPIs and interfaces of PPIs|
-| 10:30 - 11:00| 			Break |
-| 11:00 - 12:00| 	Practical | 	Zsuzsanna Dosztányi | Demo - Approaches to model protein-protein & protein-ligand interactions at the structural level |
-| 12:00 - 13:00| 	Q&A: Work with your own data | 	Trainers | 
-Visualising complexes connected with XL-MS data using UCSF ChimeraX |
-| 13:00 - 14:00| 			Lunch break |
-| 14:00 - 16:30| 	Q&A: Work with your own data | 	Trainers | 
-Hands-on session on the presented tools (own/public data) |
-| 16:30 - 17:00| 			Break |
-| 17:00 - 18:00| 	Summary lecture | 	Miguel Andrade | 
+| 10:30 - 11:00| Break | | |
+| 11:00 - 12:00| Practical | 	Zsuzsanna Dosztányi | Demo - Approaches to model protein-protein & protein-ligand interactions at the structural level |
+| 12:00 - 13:00| Q&A: Work with your own data | 	Trainers |  Visualising complexes connected with XL-MS data using UCSF ChimeraX |
+| 13:00 - 14:00| Lunch break |
+| 14:00 - 16:30| Q&A: Work with your own data | 	Trainers | Hands-on session on the presented tools (own/public data) |
+| 16:30 - 17:00| Break | | |
+| 17:00 - 18:00| Summary lecture | 	Miguel Andrade | 
 Summary lecture - Putting everything in perspective |
-| 14:00 - 16:30| 	Wrap up | 	Trainers | 
+| 14:00 - 16:30| Wrap up | 	Trainers | 
 
