@@ -5,9 +5,7 @@
 - EMBO-hosted [webpage for the course](http://meetings.embo.org/event/19-protein-protein)
 - Twitter search results for [#EMBOprotein19](https://twitter.com/search?q=%23EMBOprotein19&src=typd&lang=en-gb)
 
-Course materials will be added on each day...
-
-Meanwhile check the materials from the last year on [this page](https://github.com/malvikasharan/2018-11-EMBORome)
+<img src="images/EMBOBangaloreGroup.png" width=800>
 
 ## Collaborative document
 
