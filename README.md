@@ -88,3 +88,16 @@ https://yourpart.eu/p/emboppi19
 | 18:15 - 19:00| 	Public lecture | 	Haribabu Arthanari | Inhibiting fungal multidrug resistance by disrupting protein-protein Interaction |
 | 19:30 onwards| 			Dinner |
 
+## Day 4
+
+### Session VII: Molecular Docking
+
+| Time | Activity | Lead | Title |
+| :---------- | :---------- | :---------- |:---------- |
+| 09:15 - 10:00| 	Lecture | 	Shachi Gosavi | Simple models for protein folding and conformational transitions.|
+| 10:00 - 10:30| 	Lecture | 	Scooter Morris (on behalf of Allegra Via) | 
+Lecture - Tools for structure of PPIs and interfaces of PPIs|
+| 10:30 - 11:00| 			Break |
+| 11:00 - 12:00| 	Practical | 	Scooter Morris | [Visualizing very large protein complexes with UCSF ChimeraX](https://rbvi.github.io/chimera-tutorials/presentations/chimerax-embo-2019-bangalore.html)|
+| 12:00 - 13:00| 	Lecture | 	Tamás Korcsmáros | [PPIs in host-microbe interactions: how microbiome affect us and how pathogens tell us what to do](https://github.com/malvikasharan/EMBO-PPI19-India-NCBS/blob/master/training-materials/EMBO-PPI_India-2019_TKorcsmaros_Host-microbe-PPI-lecture.pdf) |
+| 13:00 - 14:00| 			Lunch break |
