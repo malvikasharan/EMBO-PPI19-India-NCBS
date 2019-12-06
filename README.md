@@ -5,7 +5,7 @@
 - EMBO-hosted [webpage for the course](http://meetings.embo.org/event/19-protein-protein)
 - Twitter search results for [#EMBOprotein19](https://twitter.com/search?q=%23EMBOprotein19&src=typd&lang=en-gb)
 
-<img src="images/EMBOBangaloreGroup_small.png" width=800>
+[<img src="images/EMBOBangaloreGroup_small.png" width=800>](images/EMBOBangaloreGroup.png)
 
 ## Collaborative document
 
