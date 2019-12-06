@@ -88,7 +88,7 @@ https://yourpart.eu/p/emboppi19
 | 18:15 - 19:00| 	Public lecture | 	Haribabu Arthanari | Inhibiting fungal multidrug resistance by disrupting protein-protein Interaction |
 | 19:30 onwards| 			Dinner |
 
-## Day 4
+## Day 5
 
 ### Session VII: Molecular Docking
 
@@ -101,6 +101,11 @@ Lecture - Tools for structure of PPIs and interfaces of PPIs|
 | 11:00 - 12:00| Practical | 	Zsuzsanna Dosztányi | Demo - Approaches to model protein-protein & protein-ligand interactions at the structural level |
 | 12:00 - 13:00| Q&A: Work with your own data | 	Trainers |  Visualising complexes connected with XL-MS data using UCSF ChimeraX |
 | 13:00 - 14:00| Lunch break |
+
+### Session VIII: Hands-on sessions: Advanced topics & Work with your own data
+
+| Time | Activity | Lead | Title |
+| :---------- | :---------- | :---------- |:---------- |
 | 14:00 - 16:30| Q&A: Work with your own data | 	Trainers | Hands-on session on the presented tools (own/public data) |
 | 16:30 - 17:00| Break | | |
 | 17:00 - 18:00| Summary lecture | 	Miguel Andrade | 
