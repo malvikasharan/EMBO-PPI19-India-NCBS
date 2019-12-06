@@ -108,7 +108,6 @@ Lecture - Tools for structure of PPIs and interfaces of PPIs|
 | :---------- | :---------- | :---------- |:---------- |
 | 14:00 - 16:30| Q&A: Work with your own data | 	Trainers | Hands-on session on the presented tools (own/public data) |
 | 16:30 - 17:00| Break | | |
-| 17:00 - 18:00| Summary lecture | 	Miguel Andrade | 
-Summary lecture - Putting everything in perspective |
+| 17:00 - 18:00| Summary lecture | 	Miguel Andrade | Summary lecture - Putting everything in perspective |
 | 14:00 - 16:30| Wrap up | 	Trainers | 
 
